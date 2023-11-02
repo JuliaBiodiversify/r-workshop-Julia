@@ -4,3 +4,15 @@ author: "Dr Julia Haywood"
 date: '2023-11-02'
 output: html_document
 ---
+
+## Test
+### Test1
+#### Test2
+
+
+```{r Libraries, echo=FALSE}
+library(sf) # For spatial analysis
+library(knitr) # For knitting document and include_graphics function
+library(dplyr) # For knitting document and include_graphics function
+library(raster)
+```
